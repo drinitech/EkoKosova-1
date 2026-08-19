@@ -67,7 +67,7 @@ body {
     background-color: #ffffff;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     box-sizing: border-box;
-    margin-top: 120px;
+    margin-top: 120px; 
 }
 
 /* Dashboard label */
